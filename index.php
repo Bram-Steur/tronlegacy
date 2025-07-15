@@ -14,6 +14,9 @@
   <section class="hero">
     <div class="slider">
       <div class="slides fade">
+        <img src="images/tron6.jpg" alt="Tron Still 6">
+      </div>
+      <div class="slides fade">
         <img src="images/tron1.jpg" alt="Tron Still 1">
       </div>
       <div class="slides fade">

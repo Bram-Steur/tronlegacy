@@ -297,3 +297,70 @@ header {
   font-size: 1em;
 }
 
+.character-section {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  justify-content: center;
+  padding: 50px 20px;
+}
+
+.character-card {
+  width: 250px;
+  background-color: #020718;
+  padding: 20px;
+  border-radius: 15px;
+  text-align: center;
+  box-shadow: 0 0 15px rgba(0,0,0,0.3);
+  transition: transform 0.3s;
+}
+
+.character-card:hover {
+  transform: scale(1.05);
+}
+
+.character-img {
+  display: block;
+  max-width: 100%;
+  max-height: 200px;
+  margin: 0 auto 20px;
+  object-fit: contain;
+}
+
+/* Character name */
+.character-card h2 {
+  margin-top: 10px;
+  font-size: 1.4em;
+  color: inherit;
+}
+
+/* Neon color classes */
+.neon-blue {
+  border: 2px solid #0EA9C0;
+  color: #0EA9C0;
+  text-shadow: 0 0 10px #0EA9C0;
+  box-shadow: 0 0 20px #0EA9C0;
+}
+
+.neon-white {
+  border: 2px solid #9DCAD0;
+  color: #9DCAD0;
+  text-shadow: 0 0 10px #9DCAD0;
+  box-shadow: 0 0 20px #9DCAD0;
+}
+
+.neon-yellow {
+  border: 2px solid #D08A2C;
+  color: #D08A2C;
+  text-shadow: 0 0 10px #D08A2C;
+  box-shadow: 0 0 20px #D08A2C;
+}
+
+.neon-red {
+  border: 2px solid #FF3C3C;
+  color: #FF3C3C;
+  text-shadow: 0 0 10px #FF3C3C;
+  box-shadow: 0 0 20px #FF3C3C;
+}
+
+
