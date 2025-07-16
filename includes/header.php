@@ -9,7 +9,7 @@
     <nav class="nav-links">
       <a href="story.php">Story</a>
       <a href="characters.php">Characters</a>
-      <a href="cast.php">Cast &amp; Crew</a>
+      <a href="crew.php">Cast &amp; Crew</a>
       <a href="gallery.php">Gallery</a>
     </nav>
   </div>

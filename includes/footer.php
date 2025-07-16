@@ -9,11 +9,7 @@
     <div class="footer-section">
       <h3>Other Movie Pages</h3>
       <ul class="horizontal-links movie-pages">
-        <li><a href="#">X-Men: First Class</a></li>
-        <li><a href="#">Dune</a></li>
-        <li><a href="#">Ready Player One</a></li>
-        <li><a href="#">Blade Runner 2049</a></li>
-        <li><a href="#">Star Wars: The Force Awakens</a></li>
+        TBA
       </ul>
     </div>
 
@@ -32,6 +28,6 @@
   </div>
 
   <div class="footer-bottom">
-    <p>&copy; I do not own the rights to Tron: Legacy or any other movies listed on this site.</p>
+    <p>&copy; I do not own the rights to Tron: Legacy or any of the images presented on this site.</p>
   </div>
 </footer>
